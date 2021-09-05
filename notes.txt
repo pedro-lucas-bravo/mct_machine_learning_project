@@ -1,0 +1,53 @@
+Data labels
+
+metadata - dev
+
+{
+
+'phone': 1421, 
+'clearthroat': 1485, 
+'laughter': 1446, 
+'knock': 1470, 
+'keyboard': 1445, 
+'cough': 1453, 
+'speech': 1446, 
+'doorslam': 1424, 
+'drawer': 1378, 
+'keysDrop': 1477, 
+'pageturn': 1353
+
+}
+
+metadata - Eval
+
+{
+
+'cough': 337, 
+'keysDrop': 356, 
+'phone': 382, 
+'keyboard': 366, 
+'knock': 376, 
+'clearthroat': 358, 
+'doorslam': 359, 
+'drawer': 363, 
+'laughter': 367, 
+'speech': 350, 
+'pageturn': 360
+
+}
+
+Can I reduce the sample rate less than 22 k?
+
+Features
+
+melspectogram hirvonen, yalya
+power level ratio (PLR), power level difference (PLD), and power level summation (PLS), Choi
+beamforming, AM spectogram, energy ratio sources, inter- aural cross-correlation features (which are very high- dimensional though), which include spatial information about all sources. Throwizs
+
+In 2021, Nguyen et al. proposed a new
+input feature, SALSA, which spectrotemporally aligns the spatial
+cues with the signal power in the linear-frequency scale to improve
+SELD performance Nyguyen
+phase and magitude from stft Krause
+
+
