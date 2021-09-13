@@ -174,3 +174,6 @@ sysinfo.txt
 
 #TouchDesigner
 *.*.toe
+
+features_train.csv
+features_test.csv

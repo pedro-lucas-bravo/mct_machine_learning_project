@@ -42,7 +42,7 @@ Features
 
 melspectogram hirvonen, yalya
 power level ratio (PLR), power level difference (PLD), and power level summation (PLS), Choi
-beamforming, AM spectogram, energy ratio sources, inter- aural cross-correlation features (which are very high- dimensional though), which include spatial information about all sources. Throwizs
+beamforming, AM spectogram, energy ratio sources, interaural cross-correlation features (which are very high- dimensional though), which include spatial information about all sources. Throwizs
 
 In 2021, Nguyen et al. proposed a new
 input feature, SALSA, which spectrotemporally aligns the spatial
