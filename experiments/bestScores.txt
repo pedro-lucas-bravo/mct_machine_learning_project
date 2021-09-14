@@ -1,0 +1,55 @@
+https://aimc2021.iem.at/calls/call-for-papers/
+
+
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.01, 'classifier__hidden_layer_sizes': (256, 128, 64, 32, 16, 8), 'dim_red__n_components': 64}
+associated best score -0.002944374740625899
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.01, 'classifier__hidden_layer_sizes': (256, 128, 64, 32, 16, 8), 'dim_red__n_components': 64}
+associated best score -0.0029025137970427905
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (233, 144, 89, 55, 34, 21, 13, 8, 5), 'dim_red__n_components': 13}
+associated best score -0.0035777511366457716
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (233, 144, 89, 55, 34, 21, 13, 8, 5), 'dim_red__n_components': 5}
+associated best score -0.003527804322786476
+
+For 18 features diffs
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (256, 128, 64, 32, 16, 8)}
+associated best score -0.0036600340754759783
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (500, 400, 300, 100, 50)}
+associated best score -0.003504624647393495
+
+
+
+INtensity strategy
+
+*best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (9, 5, 3), 'dim_red__n_components': 34}
+associated best score 0.004959567449006156
+
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (13, 8, 5), 'dim_red__n_components': 55}
+associated best score 0.0053994048912966
+
+Intensity strategy without scaling and PCA
+
+*best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (34, 21), 'dim_red__n_components': 144}
+associated best score 0.05374157612892637 (without scaling and PCA z is better)
+(68,42)
+
+
+
+Using cross correlation
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (20, 10)}
+associated best score 0.45029449768349705
+
+Use 256
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (50, 25), 'dim_red__n_components': 256}
+associated best score 0.5992606787031889
+
+best set of parameters {'classifier__activation': 'logistic', 'classifier__alpha': 0.1, 'classifier__hidden_layer_sizes': (50, 25), 'dim_red__n_components': 256}
+associated best score 0.5950596941757695
+
