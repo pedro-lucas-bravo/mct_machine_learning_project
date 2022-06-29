@@ -16,9 +16,9 @@ The aim of this project is to develop a solution to estimate the *Direction of A
 
 For executing the project follow the next steps (After downloading the data, you can executed any of them if the focus is in one of these stages). Every notebook has an approximate execution time provided below:
 
-1. Download the data from [here](https://drive.google.com/file/d/1aQhURzRq4cfzVKIV_9VO7qocIBIrhca4/view?usp=sharing), uncompress the folder at the level of this file.ipynb. You should be able to have a new folder called **data** that contains another folder called **dcase_data**.
+1. Download the data from [here](https://drive.google.com/file/d/1aVA_xjhQwo3h74NKfj6yvimpG21-0YN3/view?usp=sharing), uncompress the folder at the level of this file.ipynb. You should be able to have a new folder called **data** that contains another folder called **dcase_data**.
 
-2. Download the extracted features and model from [here](https://drive.google.com/file/d/16lvtLBim7f1lg0ySkm99AG7INV1b3RdK/view?usp=sharing), uncompress at the level of this file.ipynb. You should be able to have 3 files: features_train.csv, features_test.csv, doa_model.pkl. (Note that this step is not necessary if the intention is to extract the features and save as the next step indicates).
+2. Download the extracted features and model from [here](https://drive.google.com/file/d/1EG8KyIoXt6n_Yyoe-P_MEDDzaShcWm9J/view?usp=sharing), uncompress at the level of this file.ipynb. You should be able to have 3 files: features_train.csv, features_test.csv, doa_model.pkl. (Note that this step is not necessary if the intention is to extract the features and save as the next step indicates).
 
 3. Execute the notebook [feature_extraction.ipybn](feature_extraction.ipynb). Here you can generate the features for training and testing and save them to files if needed. (Exec. time 30 min)
 
