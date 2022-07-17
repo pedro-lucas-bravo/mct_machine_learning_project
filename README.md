@@ -6,7 +6,7 @@
 
 **Music, Communication and Technology Master Programme**
 
-**pedropl@uio.no**
+**pedroplu@uio.no**
 
 *I am registered on MCT4047 UiO's Studentweb*
 
